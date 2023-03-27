@@ -1,5 +1,18 @@
-# Housing_Data_Predicting_Using_ANN
-In the above which is used a Artificial Neural Network
-For Predicting the House price data
+# ANN_Model-using-tensorflow and keras
+Dataset which is Housing California dataset is available 
+in Keras Module.
+We Are creating the ANN Architecture Using sequential API
 
-Steps Involved:-
+steps Involved in the ANN Model:-
+1) Importing The Packages and Load the dataset
+2) Normalizing the data 
+3) Creating the Train ,test and validation on the data
+4) Model Creation
+5) Fitting the model
+6) Training the model with train dataset
+7) Predicting the Output with validation dataset
+8) Evaluating the Performance
+
+This Model gives best accuracy compared to any other
+Regression Model
+
